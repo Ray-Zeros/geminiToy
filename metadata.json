@@ -1,0 +1,6 @@
+{
+  "name": "Warping Ghosting Artifacts Simulator",
+  "description": "An interactive 2D geometry and screen-space simulation demonstrating why ghosting artifacts occur during frame reprojection (Warping) and disocclusion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
